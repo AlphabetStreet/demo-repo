@@ -1,6 +1,6 @@
 # Demo
 
-This is just a test following what that girl says on YouTube.
+This is just a test.
 More text.
 And even more.
 
